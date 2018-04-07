@@ -4,4 +4,4 @@
 #####Second comand
 a=str(input("Enter a string: "))
 print("Reverse of the string is: ")
-print(a[::-1])
+print(a[::-10])
